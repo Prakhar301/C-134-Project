@@ -1,0 +1,9 @@
+body{
+    background-size: cover;
+}
+h1{
+    width:100%;
+    margin: 0;
+    font-family:'Times New Roman', Times, serif;
+    border-radius:0% !important;
+}
